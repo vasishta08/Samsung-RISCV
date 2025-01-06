@@ -4,4 +4,4 @@ RISC-V : An open source instruction set to develop custom processors for various
 
 
 TASK 01:
-This task is to know about running the c program in the risc-v environment. It also includes calculating the number of addresses taken by the main section in the executed c program
+This task is to know about running the c program in the risc-v environment. It also includes calculating the number of addresses taken by the main section in the executed c program.
