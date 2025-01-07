@@ -16,6 +16,7 @@ OpenLane is an innovative silicon implementation platform that supports open-sou
 4. About the TASK 1.
 <details>
 <summary>click here to expand</summary>
+
 This task is to know about running the c program in the risc-v environment. It also includes calculating the number of addresses taken by the main section in the executed c program.
 
 4.1 Sample c programming code
