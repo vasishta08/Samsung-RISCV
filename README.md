@@ -1,8 +1,6 @@
 # Samsung-RISCV
 RISC-V : An open source instruction set to develop custom processors for various application whose architecture is based on reduces instruction set computer.
 
-
-
 1. Download the oracle virtual machine
 ![oracle vm](https://github.com/user-attachments/assets/77a8078e-17a1-4963-ad09-db4d53168634)
 
@@ -64,3 +62,7 @@ picorv32: It is a small riscv processor used in this task to perform logic synth
 Here is the small clip of blinking of led
 https://github.com/user-attachments/assets/8c0e79fd-dd83-4815-85de-535bc074fba3
 </details>
+
+7. TASK  2
+<details>
+<summary>click here to expand</summary>
