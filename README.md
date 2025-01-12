@@ -37,10 +37,12 @@ This task is to know about running the c program in the risc-v environment. It a
 </details>
 
 5. TASK 1.0
+
+picorv32: It is a small riscv processor used in this task to perform logic synthesis, CTS, to view floorplan and to view placement in the riscv environment.
 <details>
 <summary>click here to expand</summary>
 
-5.1 
+5.1 Loading tools from the docker, to call the appropriate package, connecting the design to the tool (picorv32), to run synthesis processes are given through these commands below: 
 ![newtask1](https://github.com/user-attachments/assets/7d0c0d0c-6c72-4226-87e7-9a5db2fcfedf)
 
 5.2 Conversion of period to frequency
