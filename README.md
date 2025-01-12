@@ -34,3 +34,26 @@ This task is to know about running the c program in the risc-v environment. It a
 
 4.5 Calculate the next address and verify it
 ![task1 2](https://github.com/user-attachments/assets/e15e6044-1df3-4c17-bcef-6af9d00fd872)
+</details>
+
+5. TASK 1.0
+<details>
+<summary>click here to expand</summary>
+
+5.1 
+![newtask1](https://github.com/user-attachments/assets/7d0c0d0c-6c72-4226-87e7-9a5db2fcfedf)
+
+5.2 Conversion of period to frequency
+![period to freq](https://github.com/user-attachments/assets/a292b1f5-9fa2-4b84-a209-d8243872865a)
+
+5.3 Viewing the placement
+![placement](https://github.com/user-attachments/assets/7d3ee32e-77ce-4492-85ea-5115ce05736d)
+
+5.4 Viewing the floorplan
+![floorplan new](https://github.com/user-attachments/assets/36151c85-2202-40fc-8144-9ad1cc815f6f)
+</details>
+
+6. Blinking of LED
+![blinking](https://github.com/user-attachments/assets/bc5243c0-dbc4-4e40-8fb0-6c86aa3f17ac)
+
+https://github.com/user-attachments/assets/8c0e79fd-dd83-4815-85de-535bc074fba3
