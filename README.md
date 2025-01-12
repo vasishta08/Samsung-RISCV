@@ -14,10 +14,9 @@ OpenLane is an innovative silicon implementation platform that supports open-sou
 ![openlane](https://github.com/user-attachments/assets/ac73c6b9-df99-4e0d-9df4-765558947467)
 
 4. About the TASK 1.
+This task is to know about running the c program in the risc-v environment. It also includes calculating the number of addresses taken by the main section in the executed c program.
 <details>
 <summary>click here to expand</summary>
-
-This task is to know about running the c program in the risc-v environment. It also includes calculating the number of addresses taken by the main section in the executed c program.
 
 4.1 Sample c programming code
 ![code1](https://github.com/user-attachments/assets/dfa9c86b-c8cc-44a8-813d-87c26ea4fad8)
@@ -54,6 +53,11 @@ This task is to know about running the c program in the risc-v environment. It a
 </details>
 
 6. Blinking of LED
+<details>
+<summary>click here to expand</summary>
+  
 ![blinking](https://github.com/user-attachments/assets/bc5243c0-dbc4-4e40-8fb0-6c86aa3f17ac)
 
+Here is the small clip of blinking of led
 https://github.com/user-attachments/assets/8c0e79fd-dd83-4815-85de-535bc074fba3
+</details>
